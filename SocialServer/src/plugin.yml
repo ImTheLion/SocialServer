@@ -1,0 +1,11 @@
+main: me.imthelion.socialserver.Main
+name: SocialServer
+author: ImTheLion
+description: Makes the server a little more social!
+api-version: 1.13
+version: 1.0
+
+commands:
+  socialserver:
+    aliases: ss
+    description: The main command!
